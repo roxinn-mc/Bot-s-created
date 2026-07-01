@@ -1,5 +1,5 @@
-# Create Minecraft Bot
-Arquivos gratuitos para criar bots do Minecraft [disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais]
+# Criar bot do Minecraft
+Arquivo para criar bot de Minecraft (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais)
 
 # Requisitos:
 1. na area de trabalho do seu computador, clique no botão de direito do mouse, clique em novo e depois em pasta, agora coloque o nome do seu robô (recomendado)
